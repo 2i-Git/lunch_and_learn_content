@@ -353,6 +353,15 @@ portfolios: [
     content: "A walkthrough of the coding challenge review bot.",
     extraInfo: ["Date: 7th October 2022", "Category: Bots, Power Automate"],
     videoLink: "https://2itesting-my.sharepoint.com/:v:/p/martin_sutherland/EZhY9KBHaEBOkHVZydJQmZ0BOGBHwnVEf65M94oFUBVKog"
+  },
+  {
+    imageFileName: "content.png",
+    imageFileNameDetails: "content.png",
+    header: "Splitting content to a repo: My Nightmare",
+    subheader: "by Lewis",
+    content: "A walkthrough of splitting the L&L content from code.",
+    extraInfo: ["Date: 3rd Nov 2022", "Category: Gatsby"],
+    videoLink: "https://www.youtube.com/watch?v=Xy61XL21BJ4&list=TLPQMDMxMTIwMjKAx3ySxKp6dQ&index=2"
   }
 ]
 
