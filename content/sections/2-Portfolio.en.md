@@ -353,6 +353,69 @@ portfolios: [
     content: "A walkthrough of the coding challenge review bot.",
     extraInfo: ["Date: 7th October 2022", "Category: Bots, Power Automate"],
     videoLink: "https://2itesting-my.sharepoint.com/:v:/p/martin_sutherland/EZhY9KBHaEBOkHVZydJQmZ0BOGBHwnVEf65M94oFUBVKog"
+  },
+   {
+    imageFileName: "video_optimisation.png",
+    imageFileNameDetails: "video_optimisation.png",
+    header: "Recording and optimising video evidence",
+    subheader: "by Douglas",
+    content: "Recording and optimising video evidence in testing.",
+    extraInfo: ["Date: 1st November 2022", "Category: Test evidence gathering"],
+    videoLink: "https://2itesting-my.sharepoint.com/personal/douglas_macintyre_2itesting_com/Documents/Recordings/Lunch%26Learn%20-%20Taking%20and%20Optimising%20Video%20Evidences-20221101_120209-Meeting%20Recording.mp4"
+  },
+   {
+    imageFileName: "jenkins_pipeline.jpg",
+    imageFileNameDetails: "jenkins_pipeline.jpg",
+    header: "Jenkins CI/CD Pipeline on AWS",
+    subheader: "by Matthew G and Michal",
+    content: "Jenkins CI/CD Pipeline on AWS",
+    extraInfo: ["Date: 10th November 2022", "Category: CI/CD pipelines"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/matthew_gallagher_2itesting_com/Documents/Recordings/Lunch%20%26%20Learn%20-%20Jenkins%20CI_CD%20Pipeline%20on%20AWS-20221110_123154-Meeting%20Recording.mp4?csf=1&web=1"
+  },
+  {
+    imageFileName: "backend-sms.jpg",
+    imageFileNameDetails: "backend-sms.jpg",
+    header: "SMS Auth app part 1: Backend",
+    subheader: "By Gabriel, Daniel, Maciej and Ryan",
+    content: "First of two Lunch and Learn sessions to cover the SMS Authentication project. First covering the backend/API.",
+    extraInfo: ["Date: 17th November 2022", "Category: SMS authentication"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/gabriel_kane_2itesting_com/Documents/Recordings/L%26L%20-%20SMS%20Auth%20(Backend_API)-20221117_120301-Meeting%20Recording.mp4?csf=1&web=1"
+  },
+  {
+    imageFileName: "android.jpg",
+    imageFileNameDetails: "android.jpg",
+    header: "SMS Auth app part 1: Android app",
+    subheader: "By Gabriel, Daniel, Maciej and Ryan",
+    content: "Second of two lunch learn sessions to cover the SMS authentication project. Second covering the android app",
+    extraInfo: ["Date: 24th November", "Category: Android application"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/gabriel_kane_2itesting_com/Documents/Recordings/L%26L%20-%20SMS%20Auth%20(Android%20App)-20221124_120230-Meeting%20Recording.mp4?csf=1&web=1&e=vzuuZS"
+  },
+  {
+    imageFileName: "win_automation.jpg",
+    imageFileNameDetails: "win_automation.jpg",
+    header: "Automing windows application with WinAppDriver",
+    subheader: "By Shamanth and Robert",
+    content: "Automating simple Windows application using WinAppDriver.",
+    extraInfo: ["Date: 1st December 2022", "Category: Automation"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/robert_matthew_2itesting_com/Documents/Recordings/Lunch%20%26%20Learn%20-%20Automating%20Windows%20application%20using%20WinAppDriver-20221201_120326-Meeting%20Recording.mp4?csf=1&web=1&e=kgpfzx"
+  },
+  {
+    imageFileName: "haskell.jpg",
+    imageFileNameDetails: "haskell.jpg",
+    header: "An introduction to Haskell",
+    subheader: "by Rory F",
+    content: "An introduction to Haskell",
+    extraInfo: ["Date: 8th December 2022", "Category: Programming languages"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EaUR9e68ZJdLhUssX5eJZLYBGzSzmNOhNXU5ifaAihrz6A?e=Klub8e"
+  },
+  {
+    imageFileName: "learning2.jpg",
+    imageFileNameDetails: "learning2.jpg",
+    header: "Learning on client site",
+    subheader: "by Joseph",
+    content: "A walkthrough of what Joseph learned on his new client engagement",
+    extraInfo: ["Date: 14th December", "Category: Client induction"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EcleE7K4PXpMuC8YlMasZRUBlMUf-cROve50GO3Xb4sqGg?e=ho68UO"
   }
 ]
 
