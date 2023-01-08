@@ -10,7 +10,7 @@ portfolios: [
     subheader: "by Nikita Schultz",
     content: "Gatling is a powerful tool: with only a few machines, you can simulate hundreds of thousands of requests per second on your web application and get high-precision metrics.",
     extraInfo: ["Date: 29 July 2021", "Tools: Gatling, dev tools", "Category: Performance Testing"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/ryan_kenny/EdHmlz-p5-ZDg9cv5Us2PigBJzqrIiwXrp624dOeUh49sA"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/ERY0pEKHU_1Hkug9sVIOiTMBkbtq40_0gBVUxmHqLEnORw?e=0ZGcMp"
   },
   {
     imageFileName: "portfolio/email-thumbnail.png",
@@ -109,7 +109,7 @@ portfolios: [
     subheader: "by Ryan",
     content: "Visual Testing of webpage's using open source libraries in an Assure ATF Java Selenium framework. Using image comparison to allow engineers to quickly establish where visual UI changes have been made, and reducing the amount of code required to ensure this",
     extraInfo: ["Date: 06 Jan 2022", "Tools: Assure ATF, Java, Selenium", "Category: Visualisation Testing"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/ryan_kenny_2itesting_com/Documents/Recordings/Visualisation%20Testing%20-%20Who%20needs%20applitools_-20220106_123125-Meeting%20Recording.mp4?csf=1&web=1&e=05KC5s"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EfcBLdvKe6JMnsBZmulDAVcBBrkQdhIoZrX6MD5WeU-xkQ?e=GEXqQo"
   },
    {
     imageFileName: "pipelines.png",
@@ -127,7 +127,7 @@ portfolios: [
     subheader: "by Ryan",
     content: "An introduction to the Selenium framework architecture",
     extraInfo: ["Date: 20 Jan 2022", "Tools: Serenity, Cucumber, Java", "Category: Selenium"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/ryan_kenny/ERpR-607Z45Llmb3w6OU0WEBROV4eKVz-zFJ2zju7kkJaw"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EXYMQ0ooa11Jn83eF5lxh08BDYQWgDxXDK8dPfqVEa9h0A?e=OeR2fl"
   },
   {
     imageFileName: "pipeline.jpg",
@@ -136,7 +136,7 @@ portfolios: [
     subheader: "by Stephen",
     content: "A high level introduction to automation servers and pipelines, demonstrated with Jenkins",
     extraInfo: ["Date: 27 Jan 2022", "Tools: Jenkins", "Category: Pipelines and automation servers"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/ryan_kenny/EaHrqYGOHxhFsn3gdzzGZ2IBr-V9mzs9nsumy7l__h6p9w"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EaaQ3O_cs_dOlI8VysSmYW0Bu_YDeQFR3izq57GYHHY08Q?e=I2DgGN"
   },
   {
     imageFileName: "trick.png",
@@ -145,7 +145,7 @@ portfolios: [
     subheader: "by Luke",
     content: "A session on how to handle various scenarios you may come across during client work",
     extraInfo: ["Date: 03 Feb 2022", "Tools: Experience", "Category: Client relationships"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/luke_hutchison/EY2nottbYapCuci5305elwEBWN1Zs06iUjhCVZxH1lTgUg"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/ESfieCXp_dNFiYqM_Mrx3RIB6zaVwiOCDirwhy2Oaxzoow?e=g286tk"
   },
   {
     imageFileName: "hiring.jpg",
@@ -199,7 +199,7 @@ portfolios: [
     subheader: "by Douglas",
     content: "UNIX: A history part 1",
     extraInfo: ["Date: 15 Mar 2022", "Tools: UNIX", "Category: Operating Systems"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/ryan_kenny/EXkYXBssJr1NqcvwI3FuRxUBjHlzs60Zp33Jk817ShlUbw"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EX1EjiwfAidJhhilP9McAA4Bep5PP0uzJuJf9EmXDm664w?e=FV8I0a"
     },
     {
       imageFileName: "apiPython.jpg",
