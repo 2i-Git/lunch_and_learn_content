@@ -10,7 +10,7 @@ portfolios: [
     subheader: "by Nikita Schultz",
     content: "Gatling is a powerful tool: with only a few machines, you can simulate hundreds of thousands of requests per second on your web application and get high-precision metrics.",
     extraInfo: ["Date: 29 July 2021", "Tools: Gatling, dev tools", "Category: Performance Testing"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/ryan_kenny/EdHmlz-p5-ZDg9cv5Us2PigBJzqrIiwXrp624dOeUh49sA"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/ERY0pEKHU_1Hkug9sVIOiTMBkbtq40_0gBVUxmHqLEnORw?e=0ZGcMp"
   },
   {
     imageFileName: "portfolio/email-thumbnail.png",
@@ -109,7 +109,7 @@ portfolios: [
     subheader: "by Ryan",
     content: "Visual Testing of webpage's using open source libraries in an Assure ATF Java Selenium framework. Using image comparison to allow engineers to quickly establish where visual UI changes have been made, and reducing the amount of code required to ensure this",
     extraInfo: ["Date: 06 Jan 2022", "Tools: Assure ATF, Java, Selenium", "Category: Visualisation Testing"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/ryan_kenny_2itesting_com/Documents/Recordings/Visualisation%20Testing%20-%20Who%20needs%20applitools_-20220106_123125-Meeting%20Recording.mp4?csf=1&web=1&e=05KC5s"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EfcBLdvKe6JMnsBZmulDAVcBBrkQdhIoZrX6MD5WeU-xkQ?e=GEXqQo"
   },
    {
     imageFileName: "pipelines.png",
@@ -127,7 +127,7 @@ portfolios: [
     subheader: "by Ryan",
     content: "An introduction to the Selenium framework architecture",
     extraInfo: ["Date: 20 Jan 2022", "Tools: Serenity, Cucumber, Java", "Category: Selenium"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/ryan_kenny/ERpR-607Z45Llmb3w6OU0WEBROV4eKVz-zFJ2zju7kkJaw"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EXYMQ0ooa11Jn83eF5lxh08BDYQWgDxXDK8dPfqVEa9h0A?e=OeR2fl"
   },
   {
     imageFileName: "pipeline.jpg",
@@ -136,7 +136,7 @@ portfolios: [
     subheader: "by Stephen",
     content: "A high level introduction to automation servers and pipelines, demonstrated with Jenkins",
     extraInfo: ["Date: 27 Jan 2022", "Tools: Jenkins", "Category: Pipelines and automation servers"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/ryan_kenny/EaHrqYGOHxhFsn3gdzzGZ2IBr-V9mzs9nsumy7l__h6p9w"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EaaQ3O_cs_dOlI8VysSmYW0Bu_YDeQFR3izq57GYHHY08Q?e=I2DgGN"
   },
   {
     imageFileName: "trick.png",
@@ -145,7 +145,7 @@ portfolios: [
     subheader: "by Luke",
     content: "A session on how to handle various scenarios you may come across during client work",
     extraInfo: ["Date: 03 Feb 2022", "Tools: Experience", "Category: Client relationships"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/luke_hutchison/EY2nottbYapCuci5305elwEBWN1Zs06iUjhCVZxH1lTgUg"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/ESfieCXp_dNFiYqM_Mrx3RIB6zaVwiOCDirwhy2Oaxzoow?e=g286tk"
   },
   {
     imageFileName: "hiring.jpg",
@@ -199,7 +199,7 @@ portfolios: [
     subheader: "by Douglas",
     content: "UNIX: A history part 1",
     extraInfo: ["Date: 15 Mar 2022", "Tools: UNIX", "Category: Operating Systems"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/ryan_kenny/EXkYXBssJr1NqcvwI3FuRxUBjHlzs60Zp33Jk817ShlUbw"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EX1EjiwfAidJhhilP9McAA4Bep5PP0uzJuJf9EmXDm664w?e=FV8I0a"
     },
     {
       imageFileName: "apiPython.jpg",
@@ -353,6 +353,69 @@ portfolios: [
     content: "A walkthrough of the coding challenge review bot.",
     extraInfo: ["Date: 7th October 2022", "Category: Bots, Power Automate"],
     videoLink: "https://2itesting-my.sharepoint.com/:v:/p/martin_sutherland/EZhY9KBHaEBOkHVZydJQmZ0BOGBHwnVEf65M94oFUBVKog"
+  },
+   {
+    imageFileName: "video_optimisation.png",
+    imageFileNameDetails: "video_optimisation.png",
+    header: "Recording and optimising video evidence",
+    subheader: "by Douglas",
+    content: "Recording and optimising video evidence in testing.",
+    extraInfo: ["Date: 1st November 2022", "Category: Test evidence gathering"],
+    videoLink: "https://2itesting-my.sharepoint.com/personal/douglas_macintyre_2itesting_com/Documents/Recordings/Lunch%26Learn%20-%20Taking%20and%20Optimising%20Video%20Evidences-20221101_120209-Meeting%20Recording.mp4"
+  },
+   {
+    imageFileName: "jenkins_pipeline.jpg",
+    imageFileNameDetails: "jenkins_pipeline.jpg",
+    header: "Jenkins CI/CD Pipeline on AWS",
+    subheader: "by Matthew G and Michal",
+    content: "Jenkins CI/CD Pipeline on AWS",
+    extraInfo: ["Date: 10th November 2022", "Category: CI/CD pipelines"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/matthew_gallagher_2itesting_com/Documents/Recordings/Lunch%20%26%20Learn%20-%20Jenkins%20CI_CD%20Pipeline%20on%20AWS-20221110_123154-Meeting%20Recording.mp4?csf=1&web=1"
+  },
+  {
+    imageFileName: "backend-sms.jpg",
+    imageFileNameDetails: "backend-sms.jpg",
+    header: "SMS Auth app part 1: Backend",
+    subheader: "By Gabriel, Daniel, Maciej and Ryan",
+    content: "First of two Lunch and Learn sessions to cover the SMS Authentication project. First covering the backend/API.",
+    extraInfo: ["Date: 17th November 2022", "Category: SMS authentication"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/gabriel_kane_2itesting_com/Documents/Recordings/L%26L%20-%20SMS%20Auth%20(Backend_API)-20221117_120301-Meeting%20Recording.mp4?csf=1&web=1"
+  },
+  {
+    imageFileName: "android.jpg",
+    imageFileNameDetails: "android.jpg",
+    header: "SMS Auth app part 1: Android app",
+    subheader: "By Gabriel, Daniel, Maciej and Ryan",
+    content: "Second of two lunch learn sessions to cover the SMS authentication project. Second covering the android app",
+    extraInfo: ["Date: 24th November", "Category: Android application"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/gabriel_kane_2itesting_com/Documents/Recordings/L%26L%20-%20SMS%20Auth%20(Android%20App)-20221124_120230-Meeting%20Recording.mp4?csf=1&web=1&e=vzuuZS"
+  },
+  {
+    imageFileName: "win_automation.jpg",
+    imageFileNameDetails: "win_automation.jpg",
+    header: "Automing windows application with WinAppDriver",
+    subheader: "By Shamanth and Robert",
+    content: "Automating simple Windows application using WinAppDriver.",
+    extraInfo: ["Date: 1st December 2022", "Category: Automation"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/robert_matthew_2itesting_com/Documents/Recordings/Lunch%20%26%20Learn%20-%20Automating%20Windows%20application%20using%20WinAppDriver-20221201_120326-Meeting%20Recording.mp4?csf=1&web=1&e=kgpfzx"
+  },
+  {
+    imageFileName: "haskell.jpg",
+    imageFileNameDetails: "haskell.jpg",
+    header: "An introduction to Haskell",
+    subheader: "by Rory F",
+    content: "An introduction to Haskell",
+    extraInfo: ["Date: 8th December 2022", "Category: Programming languages"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EaUR9e68ZJdLhUssX5eJZLYBGzSzmNOhNXU5ifaAihrz6A?e=Klub8e"
+  },
+  {
+    imageFileName: "learning2.jpg",
+    imageFileNameDetails: "learning2.jpg",
+    header: "Learning on client site",
+    subheader: "by Joseph",
+    content: "A walkthrough of what Joseph learned on his new client engagement",
+    extraInfo: ["Date: 14th December", "Category: Client induction"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EcleE7K4PXpMuC8YlMasZRUBlMUf-cROve50GO3Xb4sqGg?e=ho68UO"
   }
 ]
 
