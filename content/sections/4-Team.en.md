@@ -59,7 +59,7 @@ teamMember: [
     {
     imageFileName: "team/bill.png",
     header: "Stephen Fearnley",
-    subheader: "Engineer",
+    subheader: "Senior Engineer",
     social: {
       linkedin: "stephen-fearnley-959451185",
       email: "stephen.fearnley@2itesting.com"
@@ -68,7 +68,7 @@ teamMember: [
     {
     imageFileName: "team/carla.png",
     header: "Carla Chiodi",
-    subheader: "Associate Consultant - Engineering",
+    subheader: "Engineer",
     social: {
       linkedin: "chiodicg",
       email: "carla.chiodi@2itesting.com"
@@ -77,7 +77,7 @@ teamMember: [
     {
     imageFileName: "team/lewis.png",
     header: "Lewis Saunders",
-    subheader: "Associate Consultant - Engineering",
+    subheader: "Engineer",
     social: {
       linkedin: "lewis-n-saunders",
       email: "lewis.saunders@2itesting.com"
@@ -86,21 +86,12 @@ teamMember: [
     {
     imageFileName: "team/martin.PNG",
     header: "Martin Sutherland",
-    subheader: "Associate Consultant - Engineering",
+    subheader: Engineer",
     social: {
       linkedin: "martin-sutherland-90",
       email: "martin.sutherland@2itesting.com"
       }
     },
-  {
-    imageFileName: "team/charlie.png",
-    header: "Charlie Ashton",
-    subheader: "Senior Test Automation Engineer",
-    social: {
-      linkedin: "charlie-ashton-a35787176",
-      email: "charlie.ashton@2itesting.com"
-    }
-  },
     {
       imageFileName: "team/vaishali.png",
       header: "Vaishali Salunkhe",
