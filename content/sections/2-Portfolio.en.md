@@ -28,7 +28,7 @@ portfolios: [
     subheader: "by Kat Kmiotek",
     content: "Playwright enables fast, reliable and capable testing and automation across all modern browsers. This guide covers those key differentiators to help you decide on the right tool for your automated tests.",
     extraInfo: ["Date: 01 July 2021", "Tools: Playwright", "Category: UI Testing"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/adam_pettman/ES16i-HW3C5JpqOjqwHifLwBF2KxP7oZNxFcLhLwYbWksw"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EUeBDSjwl7ZKrNMGTZcnURUBkJB5dw77t_GPDtay6Nk01w?e=aKy3mS"
   },
   {
     imageFileName: "portfolio/dungeon.jpg",
@@ -37,7 +37,7 @@ portfolios: [
     subheader: "by Liam Meagher",
     content: "Meet my game. See what I created using the Unity game engine and have a peek behind the curtain to see how it works.",
     extraInfo: ["Date: 17 June 2021", "Tools: Unity", "Category: Game"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/adam_pettman/Ef2lcybw6XVJhGRKXcLWAeABQGgWBhbLd946xajtJYCWwg?e=ZjNj18&isSPOFile=1"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EeBVHxf6le5LjEFNrvVZTs8BEKoknualr8qLV-hk0fSsjA?e=CWCo84"
   },
   {
     imageFileName: "portfolio/graphql.png",
@@ -46,7 +46,7 @@ portfolios: [
     subheader: "by Kat Kmiotek",
     content: "What is GraphQL? How to set up Apollo Server? How GraphQL is different from REST API? Watch the video to find answers",
     extraInfo: ["Date: 03 June 2021", "Tools: Apollo Server, MongoDB", "Category: API"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/adam_pettman/EfduVo-FdmNFqNxPT0Q-b4QB6z2otskFZ0_ZZmXwFX478g"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EWSBowwWQ3ZBhoC4XiqkCX4BJarzUR0pBC_tpamvVUV9-Q?e=dFbJQv"
   },
   {
     imageFileName: "portfolio/flags.jpg",
@@ -55,7 +55,7 @@ portfolios: [
     subheader: "by Kat Kmiotek",
     content: "Developing multilingual app? Great idea! But how you know works as expected in other languages? What your user will see if you won't test it?",
     extraInfo: ["Date: 20 May 2021", "Tools: demo", "Category: UI Testing"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/adam_pettman/EVzmDZLsr65NhYHeXTQO3NoBKBfsp7m0b4LUZnR0YA1hOw"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EXVfN3v6TEZEsYGHniGNp-QB8Xi-IsTB8wJvWVb-zdcaig?e=xPbQeH"
   },
   {
     imageFileName: "portfolio/molecule.jpg",
@@ -73,7 +73,7 @@ portfolios: [
     subheader: "by Carla, Lewis, Martin and Matthew",
     content: "So many clever ideas! How to use Google Vison API or Google ML for testing? Great presentations from Squad 3",
     extraInfo: ["Date: 21 Oct 2021", "Tools: Google Vision, Google ML", "Category: Automation POCs"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/adam_pettman/ESFH0dobZv5Dl8zd3KZPfFQBC-kaNRnanAUvVwt96bkKxg"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EUQUoUs7yA5CuDS_GMA12MsBU2ooAMJXHjBEyMm8X70m-g?e=qMNEaw"
   },
   {
     imageFileName: "mongodb.png",
@@ -82,7 +82,7 @@ portfolios: [
     subheader: "by Craig",
     content: "Relationships can be difficult, especially when they're non-relational",
     extraInfo: ["Date: 2 Dec 2021", "Tools: MongoDB, ATLAS, Node, mongoplayground", "Category: NoSQL Databases"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/liam_meagher/EWbh6kcevitLphjoXhUfu-gBJFUnkZjYQEKnIZwEHgmaFQ"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EQ8EGYSh8g1CsLB3gHFmUdIB_VQOQ4dsuOe9xzTKsYQoeg?e=xEXVIT"
   },
   {
     imageFileName: "colours.jpg",
@@ -91,7 +91,7 @@ portfolios: [
     subheader: "by Carla",
     content: "How to use cypress to test web page CSS colours",
     extraInfo: ["Date: 7 Dec 2021", "Tools: CSS, Cypress", "Category: UI Testing"],
-    videoLink: "https://2itesting-my.sharepoint.com/personal/carla_chiodi_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcarla%5Fchiodi%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FTest%20that%20%5Fchucknorris%20%7B%20color%5F%20%5FBADA55%20%7D%21%2D20211207%5F130254%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fcarla%5Fchiodi%5F2itesting%5Fcom%2FDocuments%2FRecordings"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EaJHXigMpC5Bq7ZgkLmIsOYBtoZVxReyklLUzOhlKZxMsw?e=5Y53dy"
   },
   {
     imageFileName: "refactor.png",
@@ -100,7 +100,7 @@ portfolios: [
     subheader: "by Charlie",
     content: "Refactoring complex code to make it more simple.",
     extraInfo: ["Date: 16 Dec 2021", "Tools: Cucumber, Selenium", "Category: Clean Code"],
-    videoLink: "https://2itesting-my.sharepoint.com/personal/charlie_ashton_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcharlie%5Fashton%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FRefactor%20after%20refactor%2E%2E%2E%2E%20After%20REFACTOR%21%20%2D%20Lunch%20and%20Learn%2D20211216%5F123310%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fcharlie%5Fashton%5F2itesting%5Fcom%2FDocuments%2FRecordings"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/ERr3QDSrfv1LivhiPbCDMKkBg48ixuAS9_iSCZ8AfdMLYA?e=WMjGxW"
   },
   {
     imageFileName: "visualisation.jpg",
@@ -118,7 +118,7 @@ portfolios: [
     subheader: "by Liam",
     content: "A walk through of a generic Microservices Architecture and the pipelines supporting it",
     extraInfo: ["Date: 14 Jan 2022", "Tools: Microsoft Azure", "Category: Pipelines"],
-    videoLink: "https://2itesting-my.sharepoint.com/personal/liam_meagher_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fliam%5Fmeagher%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FLunch%20%26%20Learn%20%2D%20Thrive%20Tribe%20ADO%20Pipelines%2D20220114%5F123145%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fliam%5Fmeagher%5F2itesting%5Fcom%2FDocuments%2FRecordings"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EbrbUpBh-WZMpF1PxaAmhN4B0YDQ3QOXM-Holffu4dLdQA?e=YrvU22"
   },
    {
     imageFileName: "testing-framework.jpg",
@@ -163,7 +163,7 @@ portfolios: [
     subheader: "by Craig",
     content: "An introduction to how Express and MongoDB are integrated to create backend servers.",
     extraInfo: ["Date: 17 Feb 2022", "Tools: Express.js, MongoDB", "Category: Backend Development"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/ETte5e-XftZNkB8xTXe3C0IBn-lNOll7a2f8Sui6gfvUvw"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EXnTO7_ONDhFqGuQZcSCHcgB3Q7Jm5KhFQBLs6cK0FrRcA?e=umpIA7"
   },
   {
     imageFileName: "actions.png",
@@ -172,7 +172,7 @@ portfolios: [
     subheader: "by Carla",
     content: "GitHub Actions: what it is, why use it, how to use it.",
     extraInfo: ["Date: 24 Feb 2022", "Tools: Github Actions", "Category: CI/CD"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/carla_chiodi/EV-b4dxdIe5DonvnaWwRj_8BJP6wKffmqGxQlRcuKdrGMg"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/ERSyZT20qCpNncbO4XK38o4B5C0_9eeIjZZFlqv83ymGZw?e=mrMRY0"
   },
   {
     imageFileName: "onboarding.png",
@@ -181,7 +181,7 @@ portfolios: [
     subheader: "by 5quad",
     content: "Microsoft Forms : Automating the onboarding process",
     extraInfo: ["Date: 03 Mar 2022", "Tools: Microsoft Forms", "Category: Automation"],
-    videoLink: "https://2itesting-my.sharepoint.com/personal/sabah_ahmad_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsabah%5Fahmad%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FLunch%20%26%20Learn%5F%20New%20onboarding%20process%2D20220303%5F120327%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fsabah%5Fahmad%5F2itesting%5Fcom%2FDocuments%2FRecordings"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EfP9sJ3ohXdLgYYf3l5vYKsB1yudIh-oqwMB767o3RlQcA?e=yOQXA7"
   },
   {
     imageFileName: "cd.png",
@@ -190,7 +190,7 @@ portfolios: [
     subheader: "by Andrew and Frankie",
     content: "Continuous deployment solution with GitHub and AWS for a Node.js/express server",
     extraInfo: ["Date: 10 Mar 2022", "Tools: AWS, EC2, CodeDeploy, GitHub, GitHub Actions", "Category: Continuous Deployment"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/andrew_gordon/EU9VBvHZ5LVEmxX-28YFjEYBacLbQIzR4zZ-nZRXwhxGpQ"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EekD5agh0HtLqxQEV-DglyAB8VPOMve0KZf7fat20E8VYw?e=uRA9Xd"
   },
    {
     imageFileName: "terminal.png",
@@ -244,7 +244,7 @@ portfolios: [
       subheader: "by Nathan",
       content: "Nathan talks about his first testing event, Test Bash X",
       extraInfo: ["Date: 1st June 2022", "Category: Events"],
-      videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/EUZn51EU-LdEmv8_364veEQB2L6BZ1mR6EvgMjR2Cnyk2g"
+      videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EZRexqLzlVRHiqmxQuHmFG0BHYn6DPrhWiugSyCijGh-6w?e=s5QszM"
     },
         {
       imageFileName: "blockchain.PNG",
@@ -262,7 +262,7 @@ portfolios: [
       subheader: "by Douglas",
       content: "An introduction to NAS (part 1/3)",
       extraInfo: ["Date: 7th July", "Category: NAS"],
-      videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/EbEsJocM_ZFBlQtnQ1IhJDQB4siGTSl4pCbLzKF1QbP7LA"
+      videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EQo5b9Hvo3pMqSmMNRgYIpMBLwWrCPdqPBYMsqGR9crdtw?e=teABVS"
     },
       {
       imageFileName: "truenas2.jpg",
@@ -271,7 +271,7 @@ portfolios: [
       subheader: "by Douglas",
       content: "An introduction to NAS (part 2/3)",
       extraInfo: ["Date: 12th July", "Category: NAS"],
-      videoLink: "https://2itesting-my.sharepoint.com/personal/craig_mcleod_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcraig%5Fmcleod%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FLunch%20%26%20Learn%5F%20The%20SMR%20Problem%2D20220712%5F123204%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fcraig%5Fmcleod%5F2itesting%5Fcom%2FDocuments%2FRecordings&ct=1659080706885&or=Teams%2DHL&ga=1"
+      videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EdsEEUtcsCZMlPcH1Rp45o0B1JBiQiVdHXu-K59-Uc7wjA?e=aDfmfG"
     },
     {
     imageFileName: "machine_learning.jpeg",
@@ -280,7 +280,7 @@ portfolios: [
     subheader: "by Matthew",
     content: "How Machine learning can aid our day to day roles",
     extraInfo: ["Date: 21st July", "Category: NAS"],
-    videoLink: "https://2itesting-my.sharepoint.com/personal/craig_mcleod_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcraig%5Fmcleod%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FLunch%20%26%20Learn%5F%20Machine%20Learning%20in%20Testing%2D20220721%5F123327%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fcraig%5Fmcleod%5F2itesting%5Fcom%2FDocuments%2FRecordings&ct=1659080689140&or=Teams%2DHL&ga=1"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EV3un8lIehBKqLxx_AhkHOsBt-Hl7P7pMBYmDihbCovU8A?e=Y2bXKq"
   },
   {
     imageFileName: "gatsby.jpg",
@@ -289,7 +289,7 @@ portfolios: [
     subheader: "by Lewis",
     content: "An introduction to the Gatsby framework and static site generation.",
     extraInfo: ["Date: 11th August", "Category: JS Frameworks"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/ESN_PERn0sVKnISKim-O3t8Bkr08TAsyylsbggnlZdPOAg"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EZGo4Tlot15OkVdrF6DhI88BlPXk_McCMvN8DhNoT6P4CQ?e=0WMhaW"
   },
   {
     imageFileName: "frame.jpg",
@@ -298,7 +298,7 @@ portfolios: [
     subheader: "by Gabriel",
     content: "A demonstration of the new AssureATF pipeline/UI.",
     extraInfo: ["Date: 18th August", "Category: Pipelines and testing frameworks"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/EdBu2lqYLFZOmQuQfRGEsXQB6u0MyZH2B7gvwK8dZ4FZcw"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EWxA7kdF_eVEsdnQUeTUv_YB4-Na367Waa0WoKnRVijRFg?e=u5daPW"
   },
     {
     imageFileName: "learning.jpg",
@@ -307,7 +307,7 @@ portfolios: [
     subheader: "by Sabah",
     content: "Sabah talks through what she has learned on her first 4 months on client site.",
     extraInfo: ["Date: 25th August", "Category: Client induction"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/EQ6G_WmW0XJKrcl-oLtGzK4BZs4fKmTwEGaT7AnrkeroVA"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EQ_Oc0Ll51VPiAzsvg--D8QBdSwE3gR_gL92-8xVNZ5sNQ?e=N99lo6"
   },
   {
     imageFileName: "learning2.jpg",
@@ -316,7 +316,7 @@ portfolios: [
     subheader: "by Martin",
     content: "Martin talks through what he has learned on his first few months with a new client.",
     extraInfo: ["Date: 1st September", "Category: Client induction"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/ETHLlxUwlJRNhbbnK5rSvIABZzGV7f8PaT0fwDVEXEQRJA"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EQpf5jA_eZVPg8wM-945z_wBOPM7lkDKfxeSTiVEf37Csg?e=SqYT6O"
   },
   {
     imageFileName: "pa.jpg",
@@ -334,7 +334,7 @@ portfolios: [
     subheader: "by Aleksandra, Oskar and Sabrina",
     content: "How can we measure and test the environmental efficiency of blockchain implementations?",
     extraInfo: ["Date: 30th September 2022", "Category: Web3"],
-    videoLink: "https://2itesting-my.sharepoint.com/personal/andrew_gordon_2itesting_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fandrew%5Fgordon%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FEngineering%20Visions%20Presentation%5F%20The%20Blockchain%2C%20Testing%20and%20Sustainability%2D20220930%5F140300%2DMeeting%20Recording%2Emp4&ga=1"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/Ed6nod__DtlOiNtShrKn0EgBUf0_DwaygQ7At2_QCb4rbg?e=VDZgrN"
   },
   {
     imageFileName: "data.jpg",
@@ -343,7 +343,7 @@ portfolios: [
     subheader: "by Daniel",
     content: "A demonstration of our internally built test data generator, used on client site.",
     extraInfo: ["Date: 6th October 2022", "Category: Test Data"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/Efk12gyb5NBLu2yFbRBCs_8BJtSdOIbR3fSxDf7uhFubzQ"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EWepFwrpX69AlewGEUelfBoBAJ7V42DX2Mb_iMBDa70a7Q?e=H6jf36"
   },
   {
     imageFileName: "bot2.jpeg",
@@ -352,7 +352,7 @@ portfolios: [
     subheader: "by Michal",
     content: "A walkthrough of the coding challenge review bot.",
     extraInfo: ["Date: 7th October 2022", "Category: Bots, Power Automate"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/martin_sutherland/EZhY9KBHaEBOkHVZydJQmZ0BOGBHwnVEf65M94oFUBVKog"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/Eeat5aMZl2hMq4wxsZnMal0Bgl4OjdPGPyaQmmFZblyS0w?e=W9gQZA"
   },
    {
     imageFileName: "video_optimisation.png",
@@ -361,7 +361,7 @@ portfolios: [
     subheader: "by Douglas",
     content: "Recording and optimising video evidence in testing.",
     extraInfo: ["Date: 1st November 2022", "Category: Test evidence gathering"],
-    videoLink: "https://2itesting-my.sharepoint.com/personal/douglas_macintyre_2itesting_com/Documents/Recordings/Lunch%26Learn%20-%20Taking%20and%20Optimising%20Video%20Evidences-20221101_120209-Meeting%20Recording.mp4"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EYBkx9BTDxhAtWU2pRf5YHcBYpcxd2YP70qL_sa3jMQURw?e=jAnHG4"
   },
    {
     imageFileName: "jenkins_pipeline.jpg",
@@ -370,7 +370,7 @@ portfolios: [
     subheader: "by Matthew G and Michal",
     content: "Jenkins CI/CD Pipeline on AWS",
     extraInfo: ["Date: 10th November 2022", "Category: CI/CD pipelines"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/matthew_gallagher_2itesting_com/Documents/Recordings/Lunch%20%26%20Learn%20-%20Jenkins%20CI_CD%20Pipeline%20on%20AWS-20221110_123154-Meeting%20Recording.mp4?csf=1&web=1"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EeCcN43pBVtLoAmsqSrFMGEBkCxLiNEdKRSoozNZs_VXvA?e=M0fxef"
   },
   {
     imageFileName: "backend-sms.jpg",
@@ -379,7 +379,7 @@ portfolios: [
     subheader: "By Gabriel, Daniel, Maciej and Ryan",
     content: "First of two Lunch and Learn sessions to cover the SMS Authentication project. First covering the backend/API.",
     extraInfo: ["Date: 17th November 2022", "Category: SMS authentication"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/gabriel_kane_2itesting_com/Documents/Recordings/L%26L%20-%20SMS%20Auth%20(Backend_API)-20221117_120301-Meeting%20Recording.mp4?csf=1&web=1"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EfauU0zUVQFGpWeJBEklPvoBTwppHB-9jsgw8RaMtkFIEg?e=fD7EhH"
   },
   {
     imageFileName: "android.jpg",
@@ -388,7 +388,7 @@ portfolios: [
     subheader: "By Gabriel, Daniel, Maciej and Ryan",
     content: "Second of two lunch learn sessions to cover the SMS authentication project. Second covering the android app",
     extraInfo: ["Date: 24th November", "Category: Android application"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/gabriel_kane_2itesting_com/Documents/Recordings/L%26L%20-%20SMS%20Auth%20(Android%20App)-20221124_120230-Meeting%20Recording.mp4?csf=1&web=1&e=vzuuZS"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EQdULDaSVwBLrFezlns9NjYB_4lsTAmXg23b-smozwEFvg?e=ruoPvS"
   },
   {
     imageFileName: "win_automation.jpg",
@@ -397,7 +397,7 @@ portfolios: [
     subheader: "By Shamanth and Robert",
     content: "Automating simple Windows application using WinAppDriver.",
     extraInfo: ["Date: 1st December 2022", "Category: Automation"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/robert_matthew_2itesting_com/Documents/Recordings/Lunch%20%26%20Learn%20-%20Automating%20Windows%20application%20using%20WinAppDriver-20221201_120326-Meeting%20Recording.mp4?csf=1&web=1&e=kgpfzx"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EaTRjeUSqs9Iv8-u7CbkuuIBwqL3qw8o3--yS1l8BHwb7Q?e=CmYeVf"
   },
   {
     imageFileName: "haskell.jpg",
@@ -416,6 +416,15 @@ portfolios: [
     content: "A walkthrough of what Joseph learned on his new client engagement",
     extraInfo: ["Date: 14th December", "Category: Client induction"],
     videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EcleE7K4PXpMuC8YlMasZRUBlMUf-cROve50GO3Xb4sqGg?e=ho68UO"
+  },
+  {
+    imageFileName: "minecraft.jpg",
+    imageFileNameDetails: "minecraft.jpg",
+    header: "Minecraft server development",
+    subheader: "by Gabriel",
+    content: "Minecraft server development with spigot API",
+    extraInfo: ["Date: 12th January", "Category: Gaming"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EbWvl9GPNAlBtGHiVrdLqVABuNcnVqh9DM_pdsUZRiKWng?e=dX2WGN"
   }
 ]
 
