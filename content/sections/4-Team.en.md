@@ -155,7 +155,7 @@ teamMember: [
       }
     },
     {
-      imageFileName: "team/andrew.png",
+      imageFileName: "team/leo.png",
       header: "Oluwatosin Fawehinmi",
       subheader: "Engineer",
       social: {
@@ -164,7 +164,7 @@ teamMember: [
       }
     },
     {
-      imageFileName: "team/andrew.png",
+      imageFileName: "team/alexanderbell.jpg",
       header: "Rory Ladyman",
       subheader: "Engineer",
       social: {
