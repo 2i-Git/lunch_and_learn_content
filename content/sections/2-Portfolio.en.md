@@ -425,7 +425,16 @@ portfolios: [
     content: "Minecraft server development with spigot API",
     extraInfo: ["Date: 12th January", "Category: Gaming"],
     videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EbWvl9GPNAlBtGHiVrdLqVABuNcnVqh9DM_pdsUZRiKWng?e=dX2WGN"
-  }
+  },
+  {
+    imageFileName: "ts.png",
+    imageFileNameDetails: "ts.png",
+    header: "Bringing TypeScript to 2FA app",
+    subheader: "by Matthew M",
+    content: "An introduction to TypeScript and work done converting an existing express server from javascript",
+    extraInfo: ["Date: 2nd February", "Category: Programming Language"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EeiMySLyp65IkWiGqSO1UrYBzOWnXU_na0Ln4HGkiQOANQ?e=zJUlch"
+  },
 ]
 
  
