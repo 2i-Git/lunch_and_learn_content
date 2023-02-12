@@ -435,4 +435,13 @@ portfolios: [
     extraInfo: ["Date: 2nd February", "Category: Programming Language"],
     videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EeiMySLyp65IkWiGqSO1UrYBzOWnXU_na0Ln4HGkiQOANQ?e=zJUlch"
   },
+  {
+    imageFileName: "learning2.jpg",
+    imageFileNameDetails: "learning2.jpg",
+    header: "Learning on client site",
+    subheader: "by Frankie",
+    content: "Client engagement retrospective and learnings",
+    extraInfo: ["Date: 9th February", "Category: Client experience"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/ESULggGvpfpHi9IWLPCIjP0B8Fvrhwlrt2FCluloliPMfA?e=yfNP60"
+  }
 ]
