@@ -443,5 +443,14 @@ portfolios: [
     content: "Client engagement retrospective and learnings",
     extraInfo: ["Date: 9th February", "Category: Client experience"],
     videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/ESULggGvpfpHi9IWLPCIjP0B8Fvrhwlrt2FCluloliPMfA?e=yfNP60"
+  },
+   {
+    imageFileName: "serenitybdd.png",
+    imageFileNameDetails: "serenitybdd.png",
+    header: "Serenity BDD Features",
+    subheader: "by Maciej",
+    content: "Client engagement retrospective and learnings",
+    extraInfo: ["Date: 23rd February", "Category: Client experience"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/adam_pettman/EbDlWUFgLlJHu70j4vck5AsBdUruk6Lqb7JceXJcHGg7FA"
   }
 ]
