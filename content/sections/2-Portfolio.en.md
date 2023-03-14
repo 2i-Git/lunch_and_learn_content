@@ -444,13 +444,22 @@ portfolios: [
     extraInfo: ["Date: 9th February", "Category: Client experience"],
     videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/ESULggGvpfpHi9IWLPCIjP0B8Fvrhwlrt2FCluloliPMfA?e=yfNP60"
   },
-   {
+  {
     imageFileName: "serenitybdd.png",
     imageFileNameDetails: "serenitybdd.png",
     header: "Serenity BDD Features",
     subheader: "by Maciej",
-    content: "Client engagement retrospective and learnings",
-    extraInfo: ["Date: 23rd February", "Category: Client experience"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/adam_pettman/EbDlWUFgLlJHu70j4vck5AsBdUruk6Lqb7JceXJcHGg7FA"
+    content: "Serenity BDD features for making life easier",
+    extraInfo: ["Date: 23rd February", "Category: Test code improvements"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/ESkOvrWSaTxOm3hdVGNcQCABPsXPl77LBm-FKIPhF2Aj4w?e=lUgiaz"
+  },
+  {
+    imageFileName: "react.png",
+    imageFileNameDetails: "react.png",
+    header: "How to React",
+    subheader: "by Tomasz",
+    content: "What is React, why should we use typescript, how to use databases safely, basic UI creation and type safe API.",
+    extraInfo: ["Date: 9th March", "Category: JavaScript frameworks"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EaDWLAb4CK5Aght1qbFTE-MB9ovBHXtuXqkyx3d8osyBPA?e=lQ1TBR"
   }
 ]
