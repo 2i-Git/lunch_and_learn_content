@@ -461,5 +461,41 @@ portfolios: [
     content: "What is React, why should we use typescript, how to use databases safely, basic UI creation and type safe API.",
     extraInfo: ["Date: 9th March", "Category: JavaScript frameworks"],
     videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EaDWLAb4CK5Aght1qbFTE-MB9ovBHXtuXqkyx3d8osyBPA?e=lQ1TBR"
-  }
+  },
+  {
+    imageFileName: "cloud.png",
+    imageFileNameDetails: "cloud.png",
+    header: "Hosting your own cloud",
+    subheader: "by Dylan",
+    content: "The benefits and drawbacks of selfhosting and show you how to host your own personal cloud storage, notes, password manager and more",
+    extraInfo: ["Date: 23rd March", "Category: The Cloud"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EaDWLAb4CK5Aght1qbFTE-MB9ovBHXtuXqkyx3d8osyBPA?e=17O9d7"
+  },
+  {
+    imageFileName: "cyber.jpg",
+    imageFileNameDetails: "cyber.jpg",
+    header: "Cyber Security",
+    subheader: "by Dionne",
+    content: "What is cyber security and why should every business have a cyber security strategy",
+    extraInfo: ["Date: 23rd March", "Category: Cyber Security"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/Ec5j4FSkw_hBrK2t5vsPzh0BYZ7iKKY-hIi-Dzbuw9X46Q?e=eNMQ2o"
+  },
+   {
+    imageFileName: "computerposture.jpg",
+    imageFileNameDetails: "computerposture.jpg",
+    header: "Working safely with computers",
+    subheader: "by Abdennour",
+    content: "Common health risks associated with working with computers and how to adapt a good working practices to avoid them",
+    extraInfo: ["Date: 26th April", "Category: Working Safely"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/ESQfE-gKUP5HqhodBxiITBIBkfgEHpRCKhGw_csn1wwTKA?e=vfKRW7"
+  },
+  {
+    imageFileName: "pygame.jpg",
+    imageFileNameDetails: "pygame.jpg",
+    header: "Introduction to pygame",
+    subheader: "by Anna P",
+    content: "An introduction to Pygame, what it is, what it can do, what it can’t do",
+    extraInfo: ["Date: 11th May", "Category: Game design"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/Edv37_RWTUxJn-9mtTA3EMEBJytH0onlHcUZGE556ZKKKg?e=FEehY1"
+  },
 ]
