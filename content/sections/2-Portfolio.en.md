@@ -64,7 +64,7 @@ portfolios: [
     subheader: "by Nikita Schultz",
     content: "Bit is a component-based approach to modern application development. Bit makes the development and composition of modern applications from independent components repeatable and fun. For developers, designers and testers!",
     extraInfo: ["Date: 06 May 2021", "Tools: bit.dev, Atomic Design", "Category: UI"],
-    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/adam_pettman/ER1DIsegNJJOloJOYNESBloBbcGnAWrxuK53F2xP0_WqiA"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/ERmtkwAF-llMlrHW1YGx0y8BM2Us9bk3g__KWAiU-1FnpQ?e=CTVqdX"
   },
   {
     imageFileName: "ideas.jpg",
@@ -443,6 +443,15 @@ portfolios: [
     content: "Client engagement retrospective and learnings",
     extraInfo: ["Date: 9th February", "Category: Client experience"],
     videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/ESULggGvpfpHi9IWLPCIjP0B8Fvrhwlrt2FCluloliPMfA?e=yfNP60"
+  },
+  {
+    imageFileName: "github.png",
+    imageFileNameDetails: "github.png",
+    header: "Working together with GitHub projects",
+    subheader: "by Bruce",
+    content: "A session looking at the benefits of GitHub projects",
+    extraInfo: ["Date: 16th February", "Category: Project Management"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EY5s_LhsvUtNmcEvqV2k544BZDZ2sqGXSBni-dnvo3HQVQ?e=Xs2Nyr"
   },
   {
     imageFileName: "serenitybdd.png",
