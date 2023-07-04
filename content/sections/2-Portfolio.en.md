@@ -507,4 +507,13 @@ portfolios: [
     extraInfo: ["Date: 11th May", "Category: Game design"],
     videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/Edv37_RWTUxJn-9mtTA3EMEBJytH0onlHcUZGE556ZKKKg?e=FEehY1"
   },
+  {
+    imageFileName: "learning2.jpg",
+    imageFileNameDetails: "learning2.jpg",
+    header: "Learning on client site",
+    subheader: "by Doug and Andrew",
+    content: "Client engagement retrospective and learnings",
+    extraInfo: ["Date: 25th May", "Category: Client experience"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EcnDBMJ5BXVHhFl0Z8J8VYsBZr2Vgx3s2aQIebden5ljXw?e=dGmFw7"
+  },
 ]
