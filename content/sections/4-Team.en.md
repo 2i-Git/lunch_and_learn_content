@@ -402,7 +402,7 @@ teamMember: [
           linkedin: "b-devlin",
           email: "bruce.devlin@2itesting.com"
       }
-    }
+    },
   {
     imageFileName: "team/gracehopper.jpg",
     header: "Katherine Leyland",
