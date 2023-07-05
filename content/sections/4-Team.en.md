@@ -403,7 +403,51 @@ teamMember: [
           email: "bruce.devlin@2itesting.com"
       }
     }
-
+  {
+    imageFileName: "team/gracehopper.jpg",
+    header: "Katherine Leyland",
+    subheader: "Junior Engineer",
+    social: {
+      linkedin: "katherine-leyland25",
+      email: "katherine.leyland@2itesting.com"
+    }
+  },
+  {
+    imageFileName: "team/katherinejohnson.png",
+    header: "Victor Song",
+    subheader: "Junior Engineer",
+    social: {
+      linkedin: "victor-song1",
+      email: "victor.song@2itesting.com"
+    }
+  },
+  {
+    imageFileName: "team/pingala.png",
+    header: "Sam Ferraro",
+    subheader: "Junior Engineer",
+    social: {
+      linkedin: "samuel-serrano-ferraro",
+      email: "samuel-serrano-ferraro"
+    }
+  },
+  {
+    imageFileName: "team/elonmusk.png",
+    header: "Omer Guven",
+    subheader: "Junior Engineer",
+    social: {
+      linkedin: "omer-guven-093712191",
+      email: "Omer.Guven@2itesting.com "
+    }
+  },
+  {
+    imageFileName: "team/chrisglover.png",
+    header: "Chris Glover",
+    subheader: "Senior Engineer",
+    social: {
+      linkedin: "chris-glover-969b2766",
+      email: "chris.glover@2itesting.com"
+    }
+  }
 
 ]
 ---
