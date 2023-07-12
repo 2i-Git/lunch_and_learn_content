@@ -478,7 +478,7 @@ portfolios: [
     subheader: "by Dylan",
     content: "The benefits and drawbacks of selfhosting and show you how to host your own personal cloud storage, notes, password manager and more",
     extraInfo: ["Date: 23rd March", "Category: The Cloud"],
-    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EaDWLAb4CK5Aght1qbFTE-MB9ovBHXtuXqkyx3d8osyBPA?e=17O9d7"
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/Ee7DTZR8MNBKhZfZJzxSoRkBY2NUcm1sTTsiysYf7NpbZw?e=7jUrFy"
   },
   {
     imageFileName: "cyber.jpg",
