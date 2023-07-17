@@ -58,7 +58,7 @@ teamMember: [
   {
     imageFileName: "team/doug.png",
     header: "Douglas MacIntyre",
-    subheader: "Senior Engineer",
+    subheader: "Engineer",
     social: {
       linkedin: "dougmac21/",
       email: "douglas.macintyre@2itesting.com"
