@@ -25,7 +25,7 @@ teamMember: [
   {
     imageFileName: "team/leo.png",
     header: "Rohini Rao",
-    subheader: "Manager - Engineering",
+    subheader: "Engineering Manager",
     social: {
       email: "rohini.rao@2itesting.com"
       }
@@ -33,7 +33,7 @@ teamMember: [
      {
     imageFileName: "team/mariecurie.jpg",
     header: "Savneet Kaur",
-    subheader: "Manager - Engineering",
+    subheader: "Engineering Manager",
     social: {
       email: "savneet.kaur@2itesting.com"
       }
@@ -41,7 +41,7 @@ teamMember: [
     {
     imageFileName: "team/ada.jpeg",
     header: "Madhumita Suresh",
-    subheader: "Senior Consultant - Engineering",
+    subheader: "Senior Engineer",
     social: {
       email: "Madhumita.Suresh@2itesting.com"
       }
@@ -76,7 +76,7 @@ teamMember: [
     {
     imageFileName: "team/carla.png",
     header: "Carla Chiodi",
-    subheader: "Engineer",
+    subheader: "Senior Engineer",
     social: {
       linkedin: "chiodicg",
       email: "carla.chiodi@2itesting.com"
@@ -94,7 +94,7 @@ teamMember: [
     {
     imageFileName: "team/martin.PNG",
     header: "Martin Sutherland",
-    subheader: Engineer",
+    subheader: "Engineer",
     social: {
       linkedin: "martin-sutherland-90",
       email: "martin.sutherland@2itesting.com"
@@ -174,7 +174,7 @@ teamMember: [
     {
       imageFileName: "team/tesla.jpg",
       header: "Conor Tesh",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
           linkedin: "conor-tesh-9179b4217",
           email: "conor.test@2itesting.com"
@@ -183,7 +183,7 @@ teamMember: [
     {
       imageFileName: "team/mariecurie.jpg",
       header: "Sabah Ahmad",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
           linkedin: "sabah-ahmad-b587b6172",
           email: "sabah.ahmad@2itesting.com"
@@ -192,7 +192,7 @@ teamMember: [
     {
       imageFileName: "team/nathan.jpg",
       header: "Nathan Strang",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
           linkedin: "nstrang2i",
           email: "nathan.strang@2itesting.com"
@@ -201,7 +201,7 @@ teamMember: [
     {
       imageFileName: "team/matt.jpg",
       header: "Matt Simpson",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
           linkedin: "matthewjsimpson1993",
           email: "matthew.simpson@2itesting.com"
@@ -210,7 +210,7 @@ teamMember: [
     {
       imageFileName: "team/thomas.jpg",
       header: "Thomas Skaife",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
           linkedin: "thomas-skaife",
           email: "thomas.skaife@2itesting.com"
@@ -219,7 +219,7 @@ teamMember: [
     {
       imageFileName: "team/jlm.jpg",
       header: "Shamanth Komala",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
           linkedin: "shamanth-komala-lakshminarayana-b57690200",
           email: "shamanth.komala@2itesting.com"
@@ -228,7 +228,7 @@ teamMember: [
     {
       imageFileName: "team/alexanderbell.jpg",
       header: "Kashif Butt",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
           linkedin: "kashifbutt18",
           email: "kashif.butt@2itesting.com"
@@ -237,7 +237,7 @@ teamMember: [
     {
       imageFileName: "team/robertM.jpg",
       header: "Robert Matthew",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
           linkedin: "rhm14148",
           email: "robert.matthew@2itesting.com"
@@ -246,7 +246,7 @@ teamMember: [
     {
       imageFileName: "team/aristotle.jpg",
       header: "Matthew Gallagher",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
           linkedin: "matthew-p-gallagher",
           email: "matthew.gallagher@2itesting.com"
@@ -255,7 +255,7 @@ teamMember: [
     {
       imageFileName: "team/maciej.jpg",
       header: "Maciej Fec",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
           linkedin: "maciej-fec-657071182",
           email: "maciej.fec@2itesting.com"
@@ -264,7 +264,7 @@ teamMember: [
     {
       imageFileName: "team/annaMP.jpg",
       header: "Anna Pavlidou",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
           linkedin: "anna-maria-pavlidou-6b5799238",
           email: "anna-maria.pavlidou@2itesting.com@2itesting.com"
@@ -273,7 +273,7 @@ teamMember: [
     {
       imageFileName: "team/DClegg.jpg",
       header: "David Clegg",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
           linkedin: "david-clegg-86b239a6",
           email: "david.clegg@2itesting.com"
@@ -282,7 +282,7 @@ teamMember: [
     {
       imageFileName: "team/charlesBabbage.jpg",
       header: "Ross Clements",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
           linkedin: "rosswclements",
           email: "ross.clements@2itesting.com"
@@ -291,7 +291,7 @@ teamMember: [
     {
       imageFileName: "team/georgecarver.webp",
       header: "Gabriel Kane",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
           linkedin: "gabriel-kane-543565227",
           email: "gabriel.kane@2itesting.com"
@@ -300,7 +300,7 @@ teamMember: [
     {
       imageFileName: "team/carolineherschel.jpg",
       header: "Dionne Macintosh",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
           linkedin: "dionne-macintosh-bsc-hons-0020701a8",
           email: "dionne.macintosh@2itesting.com"
@@ -309,7 +309,7 @@ teamMember: [
     {
       imageFileName: "team/gustave.jpg",
       header: "Abdennour Hachemi",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
           email: "abdennour.hachemi@2itesting.com"
       }
@@ -317,7 +317,7 @@ teamMember: [
     {
       imageFileName: "team/einstein.jpg",
       header: "Michal Kowalski",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
           linkedin: "michal-kowalski-752480143",
           email: "michal.kowalski@2itesting.com"
@@ -339,15 +339,6 @@ teamMember: [
       social: {
           linkedin: "thomasedi",
           email: "tomasz.tracz@2itesting.com"
-      }
-    },
-        {
-      imageFileName: "team/gustave.jpg",
-      header: "Scott Hamilton",
-      subheader: "Junior Engineer",
-      social: {
-          linkedin: "scott-hamilton-84717924",
-          email: "scott.hamilton@2itesting.com"
       }
     },
        {
