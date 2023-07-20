@@ -516,4 +516,13 @@ portfolios: [
     extraInfo: ["Date: 25th May", "Category: Client experience"],
     videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EcnDBMJ5BXVHhFl0Z8J8VYsBZr2Vgx3s2aQIebden5ljXw?e=dGmFw7"
   },
+  {
+    imageFileName: "imposter.jpg",
+    imageFileNameDetails: "imposter.jpg",
+    header: "Imposter Syndrome: An introduction (pt 1 of 3)",
+    subheader: "by Stevie and Carla",
+    content: "A discussion of what it is, why it matters and whom it may affect",
+    extraInfo: ["Date: 20th July", "Category: Mental health"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EYVlB4WQ7tlIqcUct0QDI5oBTU1YyvqjpobCqRjbmx2KLQ?e=7qnqdV"
+  }
 ]
