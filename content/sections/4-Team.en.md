@@ -49,7 +49,7 @@ teamMember: [
   {
     imageFileName: "team/craig.png",
     header: "Craig McLeod",
-    subheader: "Engineer",
+    subheader: "Senior Engineer",
     social: {
       linkedin: "craig-r-mcleod",
       email: "craig.mcleod@2itesting.com"
