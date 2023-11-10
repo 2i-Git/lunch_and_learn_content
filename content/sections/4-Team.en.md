@@ -449,7 +449,7 @@ teamMember: [
     }
   },   
    {
-    imageFileName: "team/",
+    imageFileName: "team/higgs.jpg",
     header: "Gyorgy Papp",
     subheader: "Junior Engineer",
     social: {
@@ -458,7 +458,7 @@ teamMember: [
     }
   },
       {
-    imageFileName: "team/",
+    imageFileName: "team/harrysandles.jpg",
     header: "Harry Sandles",
     subheader: "Junior Engineer",
     social: {
