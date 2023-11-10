@@ -462,7 +462,6 @@ teamMember: [
     header: "Harry Sandles",
     subheader: "Junior Engineer",
     social: {
-      linkedin: "",
       email: "harry.sandles@2itesting.com"
     }
   },
