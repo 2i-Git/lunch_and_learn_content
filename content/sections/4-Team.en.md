@@ -67,7 +67,7 @@ teamMember: [
     {
     imageFileName: "team/bill.png",
     header: "Stephen Fearnley",
-    subheader: "Senior Engineer",
+    subheader: "Engineering Manager (Secondment)",
     social: {
       linkedin: "stephen-fearnley-959451185",
       email: "stephen.fearnley@2itesting.com"
@@ -103,7 +103,7 @@ teamMember: [
     {
       imageFileName: "team/vaishali.png",
       header: "Vaishali Salunkhe",
-      subheader: "Senior Consultant - Engineering",
+      subheader: "Senior Engineer",
       social: {
           linkedin: "vaishali-patil125",
           email: "vaishali.salunkhe@2itesting.com"
@@ -205,15 +205,6 @@ teamMember: [
       social: {
           linkedin: "matthewjsimpson1993",
           email: "matthew.simpson@2itesting.com"
-      }
-    },
-    {
-      imageFileName: "team/thomas.jpg",
-      header: "Thomas Skaife",
-      subheader: "Engineer",
-      social: {
-          linkedin: "thomas-skaife",
-          email: "thomas.skaife@2itesting.com"
       }
     },
     {
@@ -326,7 +317,7 @@ teamMember: [
      {
       imageFileName: "team/georgecarver.webp",
       header: "Dylan Berwick",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
           linkedin: "dylan-berwick",
           email: "dylan.berwick@2itesting.com"
@@ -335,25 +326,16 @@ teamMember: [
       {
       imageFileName: "team/charlesBabbage.jpg",
       header: "Tomasz Tracz",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
           linkedin: "thomasedi",
           email: "tomasz.tracz@2itesting.com"
       }
     },
-       {
-      imageFileName: "team/georgecarver.webp",
-      header: "Scott Hamilton",
-      subheader: "Junior Engineer",
-      social: {
-          linkedin: "scott-hamilton-84717924",
-          email: "scott.hamilton@2itesting.com"
-      }
-    },
       {
       imageFileName: "team/gustave.jpg",
       header: "Matthew Munro",
-      subheader: "Junior Engineer",
+      subheader: "Engineer",
       social: {
          email: "matthew.munro@2itesting.com"
       }
@@ -414,7 +396,7 @@ teamMember: [
   },
   {
     imageFileName: "team/pingala.png",
-    header: "Sam Ferraro",
+    header: "Samuel Ferraro",
     subheader: "Junior Engineer",
     social: {
       linkedin: "samuel-serrano-ferraro",
@@ -433,12 +415,82 @@ teamMember: [
   {
     imageFileName: "team/chrisglover.png",
     header: "Chris Glover",
-    subheader: "Senior Engineer",
+    subheader: "Engineering Manager (Secondment)",
     social: {
       linkedin: "chris-glover-969b2766",
       email: "chris.glover@2itesting.com"
     }
-  }
-
+  },
+  {
+    imageFileName: "team/benbilgili.png",
+    header: "Ben Bilgili",
+    subheader: "Junior Engineer",
+    social: {
+      linkedin: "benanbilgili",
+      email: "ben.bilgili@2itesting.com"
+    }
+  },
+    {
+    imageFileName: "team/ewanlaing.jpg",
+    header: "Ewan Laing",
+    subheader: "Junior Engineer",
+    social: {
+      linkedin: "ewan-laing-472b0852",
+      email: "ewan.laing@2itesting.com"
+    }
+  },
+      {
+    imageFileName: "team/fran.png",
+    header: "Francisco Escano",
+    subheader: "Junior Engineer",
+    social: {
+      linkedin: "francisco-jose-bejarano-escano-76240716",
+      email: "francisco.escano@2itesting.com"
+    }
+  },   
+   {
+    imageFileName: "team/higgs.jpg",
+    header: "Gyorgy Papp",
+    subheader: "Junior Engineer",
+    social: {
+      linkedin: "gyorgy-papp-code-trooper",
+      email: "gyorgy.papp@2itesting.com"
+    }
+  },
+      {
+    imageFileName: "team/harrysandles.jpg",
+    header: "Harry Sandles",
+    subheader: "Junior Engineer",
+    social: {
+      email: "harry.sandles@2itesting.com"
+    }
+  },
+      {
+    imageFileName: "team/laureneinstein.jpg",
+    header: "Lauren Lingham",
+    subheader: "Junior Engineer",
+    social: {
+      linkedin: "laurenlingham",
+      email: "lauren.lingham@2itesting.com"
+    }
+  },
+      {
+    imageFileName: "team/lewisbrennan.jpg",
+    header: "Lewis Brennan",
+    subheader: "Junior Engineer",
+    social: {
+      linkedin: "lewis-brennan-a59b1a78/",
+      email: "lewis.brennan@2itesting.com"
+    }
+  },
+      {
+    imageFileName: "team/michaelgriffiths.jpg",
+    header: "Michael Griffiths",
+    subheader: "Junior Engineer",
+    social: {
+      linkedin: "michael-griffiths77",
+      email: "michael.griffiths@2itesting.com"
+    }
+  },
 ]
 ---
