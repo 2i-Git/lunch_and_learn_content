@@ -422,7 +422,7 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/",
+    imageFileName: "team/benbilgili.png",
     header: "Ben Bilgili",
     subheader: "Junior Engineer",
     social: {
@@ -431,7 +431,7 @@ teamMember: [
     }
   },
     {
-    imageFileName: "team/",
+    imageFileName: "team/ewanlaing.jpg",
     header: "Ewan Laing",
     subheader: "Junior Engineer",
     social: {
@@ -467,7 +467,7 @@ teamMember: [
     }
   },
       {
-    imageFileName: "team/",
+    imageFileName: "team/laureneinstein.jpg",
     header: "Lauren Lingham",
     subheader: "Junior Engineer",
     social: {
@@ -476,7 +476,7 @@ teamMember: [
     }
   },
       {
-    imageFileName: "team/",
+    imageFileName: "team/lewisbrennan.jpg",
     header: "Lewis Brennan",
     subheader: "Junior Engineer",
     social: {
@@ -485,7 +485,7 @@ teamMember: [
     }
   },
       {
-    imageFileName: "team/",
+    imageFileName: "team/michaelgriffiths.jpg",
     header: "Michael Griffiths",
     subheader: "Junior Engineer",
     social: {
