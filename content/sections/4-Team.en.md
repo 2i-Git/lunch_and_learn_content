@@ -396,7 +396,7 @@ teamMember: [
   },
   {
     imageFileName: "team/pingala.png",
-    header: "Samuel Ferraro",
+    header: "Sam Ferraro",
     subheader: "Junior Engineer",
     social: {
       linkedin: "samuel-serrano-ferraro",
