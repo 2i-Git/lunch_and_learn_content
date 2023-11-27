@@ -519,10 +519,46 @@ portfolios: [
   {
     imageFileName: "imposter.jpg",
     imageFileNameDetails: "imposter.jpg",
-    header: "Imposter Syndrome: An introduction (pt 1 of 3)",
-    subheader: "by Stevie and Carla",
-    content: "A discussion of what it is, why it matters and whom it may affect",
+    header: "Imposter Syndrome: A series",
+    subheader: "by Stevie, Carla, Sam, Dionne, Chris, Maciej, Michelle, Robert and Craig",
+    content: "A series of sessions looking at different stories and aspects of imposter syndrome",
     extraInfo: ["Date: 20th July", "Category: Mental health"],
-    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EYVlB4WQ7tlIqcUct0QDI5oBTU1YyvqjpobCqRjbmx2KLQ?e=7qnqdV"
+    videoLink: "https://2itesting.sharepoint.com/sites/ImposterSyndromeLLSeries"
+  },
+  {
+    imageFileName: "brain.jpg",
+    imageFileNameDetails: "brain.jpg",
+    header: "Unlocking Your Potential: The Growth Mindset",
+    subheader: "by Katherine",
+    content: "A session discussing the importance of having a growth mindset",
+    extraInfo: ["Date: 14th September", "Category: Learning"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/michelle_stambuk_2itesting_com/Documents/Recordings/Lunch%20%26%20Learn%20-%20Unlocking%20your%20potential_%20The%20Growth%20Mindset%20Workshop-20230914_120259-Meeting%20Recording.mp4?csf=1&web=1&e=ycy9bA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"
+  },
+   {
+    imageFileName: "home_aut.jpg",
+    imageFileNameDetails: "home_aut.jpg",
+    header: "Introduction to Home Automation",
+    subheader: "by Tomasz",
+    content: "An introduction to home automation",
+    extraInfo: ["Date: 2nd November", "Category: IoT"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/Ee5lDeDZP89Es8BqlGCQQfEBjy62Uvqgv4Sd0eM99Ql99Q?e=yHt8MS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"
+  },
+    {
+    imageFileName: "automation.jpg",
+    imageFileNameDetails: "automation.jpg",
+    header: "Jira Automation and Workflow Retrospective",
+    subheader: "by Abdennour, Elliott and Tomasz",
+    content: "Jira Automation and Workflow Retrospective",
+    extraInfo: ["Date: 16th November", "Category: Workflow automation"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/tomasz_tracz_2itesting_com/Documents/Recordings/Lunch%20%26%20Learn%20-%20Jira%20Automation%20%26%20Workflow%20Retrospective-20231116_120218-Meeting%20Recording.mp4?csf=1&web=1&e=l4Dovs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"
+  },
+    {
+    imageFileName: "french.jpg",
+    imageFileNameDetails: "french.jpg",
+    header: "Learning French as a False Beginner",
+    subheader: "by Robert",
+    content: "Robert shares his story on progressing through learning French",
+    extraInfo: ["Date: 23rd November", "Category: Learning Languages"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EfML8-8tEWhAg4pzV_iLClkBZLhrGY9On3m4TofVMz-huw?e=ovEs90&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"
   }
 ]
