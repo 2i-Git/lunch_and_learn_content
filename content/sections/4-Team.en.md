@@ -201,7 +201,7 @@ teamMember: [
     {
       imageFileName: "team/matt.jpg",
       header: "Matt Simpson",
-      subheader: "Engineer",
+      subheader: "Junior Service Delivery Manager; Engineer",
       social: {
           linkedin: "matthewjsimpson1993",
           email: "matthew.simpson@2itesting.com"
@@ -404,15 +404,6 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/elonmusk.png",
-    header: "Omer Guven",
-    subheader: "Junior Engineer",
-    social: {
-      linkedin: "omer-guven-093712191",
-      email: "Omer.Guven@2itesting.com "
-    }
-  },
-  {
     imageFileName: "team/chrisglover.png",
     header: "Chris Glover",
     subheader: "Engineering Manager (Secondment)",
@@ -490,6 +481,31 @@ teamMember: [
     social: {
       linkedin: "michael-griffiths77",
       email: "michael.griffiths@2itesting.com"
+    }
+  },
+  {
+    imageFileName: "gustave.jpg",
+    header: "Ravinder Budhwan",
+    subheader: "Senior Engineer",
+    social: {
+      linkedin: "ravinderbudhwan",
+      email: "ravinder.budhwan@2itesting.com"
+    }
+  }{
+    imageFileName: "einstein.jpg",
+    header: "Chris Williams",
+    subheader: "Senior Engineer",
+    social: {
+      email: "chris.williams@2itesting.com"
+    }
+  },
+  {
+    imageFileName: "jameswatt.jpg",
+    header: "William Deeley",
+    subheader: "Senior Engineer",
+   social: {
+      linkedin: "will-deeley-185a00235",
+      email: "william.deeley@2itesting.com"
     }
   },
 ]

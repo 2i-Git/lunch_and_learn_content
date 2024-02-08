@@ -560,5 +560,41 @@ portfolios: [
     content: "Robert shares his story on progressing through learning French",
     extraInfo: ["Date: 23rd November", "Category: Learning Languages"],
     videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EfML8-8tEWhAg4pzV_iLClkBZLhrGY9On3m4TofVMz-huw?e=ovEs90&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"
+  },
+  {
+    imageFileName: "testing_tools.png",
+    imageFileNameDetails: "testing_tools.png",
+    header: "SquadX testing tools pt 1/2",
+    subheader: "by Ben, Ewan, Harry, Lauren, Lewis and Michael",
+    content: "Squad 10 give us the low down on testing tools they've been learning (Cypress, Selenium, RestAssured, Postman)",
+    extraInfo: ["Date: 28th November", "Category: Testing tools"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/ERH9JuPgDphEoSVC1vQ4M0IB_plueioSlj8lQP74tgWCIg?e=zFP3rJ"
+  },
+    {
+    imageFileName: "testing_tools.png",
+    imageFileNameDetails: "testing_tools.png",
+    header: "SquadX testing tools pt 2/2",
+    subheader: "by Fran and Gyorgy",
+    content: "Squad 10 give us the low down on testing tools they've been learning (Cypress, Selenium, RestAssured, Postman)",
+    extraInfo: ["Date: 29th November", "Category: Testing tools"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EQxJ0wnvNStFm8FZH9RiTuQBtoCUAeNntWuRsNVKiFfkdw?e=JRFveb"
+  },
+  {
+    imageFileName: "ai_mystery.jpeg",
+    imageFileNameDetails: "ai_mystery.jpeg",
+    header: "AI: Unraveling the basics (part 1)",
+    subheader: "by Anna and Michal",
+    content: "Michal and Anna take us through the first steps of unraveling the basics of AI",
+    extraInfo: ["Date: 8th December", "Category: AI"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EU1fbmlkg6hMlkIx6AXfmmEB_kmfNWGKjBKiSjpCu5UNww?e=oru1gG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"
+  },
+  {
+    imageFileName: "modern_apprenticeship.png",
+    imageFileNameDetails: "modern_apprenticeship.png",
+    header: "My modern apprenticeship",
+    subheader: "by Ryan A.",
+    content: "Ryan takes us through his modern apprenticeship journey",
+    extraInfo: ["Date: 14th December", "Category: Modern Apprenticeship"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/matthew_gallagher_2itesting_com/Documents/Recordings/My%20Modern%20Apprenticeship-20231214_120121-Meeting%20Recording.mp4?csf=1&web=1&e=WN8W2b&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"
   }
 ]
