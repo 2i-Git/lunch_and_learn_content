@@ -175,6 +175,15 @@ portfolios: [
     videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/ERSyZT20qCpNncbO4XK38o4B5C0_9eeIjZZFlqv83ymGZw?e=mrMRY0"
   },
   {
+    imageFileName: "onboarding.png",
+    imageFileNameDetails: "onboarding.png",
+    header: "New Onboarding Tool",
+    subheader: "by 5quad",
+    content: "Microsoft Forms : Automating the onboarding process",
+    extraInfo: ["Date: 03 Mar 2022", "Tools: Microsoft Forms", "Category: Automation"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EQ-_NAia2JNChMCZzpa80KABGj1Xe2VmdtK0Lw43peMRUA?e=MRyOsA"
+  },
+  {
     imageFileName: "cd.png",
     imageFileNameDetails: "cd.png",
     header: "Continuous deployment with AWS & GitHub",
@@ -290,6 +299,15 @@ portfolios: [
     content: "A demonstration of the new AssureATF pipeline/UI.",
     extraInfo: ["Date: 18th August", "Category: Pipelines and testing frameworks"],
     videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EWxA7kdF_eVEsdnQUeTUv_YB4-Na367Waa0WoKnRVijRFg?e=u5daPW"
+  },
+    {
+    imageFileName: "learning.jpg",
+    imageFileNameDetails: "learning.jpg",
+    header: "Learning on client site, with Sabah",
+    subheader: "by Sabah",
+    content: "Sabah talks through what she has learned on her first 4 months on client site.",
+    extraInfo: ["Date: 25th August", "Category: Client induction"],
+    videoLink: "https://2itesting.sharepoint.com/:v:/s/2iEngineering/EXhznqEEdLxNoArwuOGDe0gBNB8BHTVruTZ3-BBygD5F2Q?e=5142sH"
   },
   {
     imageFileName: "learning2.jpg",
