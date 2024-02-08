@@ -491,7 +491,8 @@ teamMember: [
       linkedin: "ravinderbudhwan",
       email: "ravinder.budhwan@2itesting.com"
     }
-  }{
+  },
+  {
     imageFileName: "einstein.jpg",
     header: "Chris Williams",
     subheader: "Senior Engineer",
